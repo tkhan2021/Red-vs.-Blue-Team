@@ -6,4 +6,5 @@ This document contains the following resources:
 - Target 1
 - Target 2
 
-- https://github.com/tkhan2021/Red-vs.-Blue-Team/blob/ffec82a09f1cc57157cc281ce894c9c44b21b7f3/Project%20Templates/Defensive%20Template
+- https://git.io/JBKOp
+- 
